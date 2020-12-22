@@ -1,0 +1,1 @@
+const input = require('fs').readFileSync('./13-input.txt', 'utf-8').split('\n')
